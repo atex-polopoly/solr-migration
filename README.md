@@ -41,3 +41,12 @@ An help will be shown on the screen
 ```
 
   * show the current version
+
+#### Windows version
+
+There is a windows batch file which has not been tested and it does not support all the paremeters listed above.\
+You execute it like:
+
+```
+migrate.bat indexDir [-verbose]
+```
